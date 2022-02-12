@@ -15,7 +15,7 @@
 <%--</form>--%>
 <form method="post" var="user" items="${user}">
     <dl>
-        <dt>Name: </dt>
+        <dt>Name : </dt>
         <dd><input type="text" name="name" value="${user.name}" /></dd>
     </dl>
     <dl>
