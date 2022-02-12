@@ -19,11 +19,11 @@
         <dd><input type="text" name="name" value="${user.name}" /></dd>
     </dl>
     <dl>
-        <dt>Name: </dt>
+        <dt>Surname </dt>
         <dd><input type="text" name="surname" value="${user.surname}"  /></dd>
     </dl>
     <dl>
-        <dt>Serial number: </dt>
+        <dt>Age </dt>
         <dd><input type="number" name="age" value="${user.age}"  /></dd>
     </dl>
     <button type="submit">Save</button>
