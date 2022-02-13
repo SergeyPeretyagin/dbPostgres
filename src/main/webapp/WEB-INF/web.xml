@@ -12,7 +12,7 @@
 <!--  <servlet-mapping>-->
 <!--    <servlet-name>GetStartPageServlet</servlet-name>-->
 <!--    <url-pattern>/</url-pattern>-->
-<!--  </servlet-mapping>-->
+<!--  </servlet-mapping> -->
 
     <resource-ref>
     <description>Connection Pool</description>
