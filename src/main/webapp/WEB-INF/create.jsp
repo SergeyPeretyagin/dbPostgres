@@ -13,7 +13,7 @@
 <%--    <input name="age" type="number" /><br><br>--%>
 <%--    <input type="submit" value="Save" />--%>
 <%--</form>--%>
-<form method="post" var="user" items="${user}">
+<form method="post">
     <dl>
         <dt>Name : </dt>
         <dd><input type="text" name="name" value="${user.name}" /></dd>
