@@ -30,7 +30,6 @@ public class ServCreate extends HttpServlet {
             response.sendRedirect(request.getContextPath()+"/index");
         }
         catch(Exception ex) {
-
             getServletContext().getRequestDispatcher("/WEB-INF/create.jsp").forward(request, response);
         }
     }

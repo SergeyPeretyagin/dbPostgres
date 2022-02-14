@@ -5,7 +5,7 @@
     <style type="text/css">
         TABLE {
             width: 400px; /* Ширина таблицы */
-            border: 1px solid black; /* Рамка вокруг таблицы */
+            border: 3px solid black; /* Рамка вокруг таблицы */
         }
         TD, TH {
             padding: 3px; /* Поля вокруг содержимого ячеек */

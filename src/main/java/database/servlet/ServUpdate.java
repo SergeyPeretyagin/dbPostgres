@@ -24,7 +24,6 @@ public class ServUpdate extends HttpServlet {
             System.out.println(ex);
         }
     }
-
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         try {
